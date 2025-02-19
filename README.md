@@ -100,6 +100,6 @@ Meu nome é Victor Hugo Tomaz, sou uma pessoa apaixonada por desenvolvimento e t
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhtomaz&layout=compact&theme=midnight-purple" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhtomaz&layout=compact&theme=midnight-purple&locale=pt-br" 
   />
 </p>
