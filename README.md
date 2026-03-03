@@ -1,105 +1,24 @@
-# ✌️ Sobre mim
+## Sobre mim
 
-**`Desenvolvedor .NET`**
+Meu nome é Victor Hugo Tomaz e sou estudante de Sistemas de Informação. Possuo foco em **Engenharia de Software** e **Internet das Coisas (IoT)**.
 
-Meu nome é Victor Hugo Tomaz, sou uma pessoa apaixonada por desenvolvimento e tecnologias. Atualmente, sou estudante de Sistemas de Informação na UFRRJ. Neste espaço, compartilho meus projetos pessoais e contribuições relacionadas aos meus estudos, sempre buscando aprender e crescer na área.
+Neste espaço, compartilho meus projetos pessoais e contribuições relacionadas aos meus estudos, sempre buscando aprender e crescer na área.
 
----
+### Stack Tecnológica
 
-### 🖥️ Tecnologias
+- **Back-end:** `C#`, `.NET`, `Java`, `C`
 
-<img 
-    align="left" 
-    alt=".NET"
-    title=".NET" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
+- **Front-end:** `JavaScript`, `TypeScript`, `Tailwind CSS`
 
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
+- **Bancos de dados:** `MySQL`, `PostgreSQL`, `InfluxDB` 
 
-<img 
-    align="left" 
-    alt="sqlserver"
-    title="sqlserver" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
+- **DevOps:** `Git`, `Docker`
 
-<img 
-    align="left" 
-    alt="docker"
-    title="docker" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>      
+### Alguns projetos
+- **[Visualização de Dados Aeroportuários](https://github.com/victorhtomaz/aed2-aerodromo-indexing)** - Um projeto acadêmico de Estrutura de Dados e Algoritmos.
+- **[EasyTrip](https://github.com/victorhtomaz/lp3-trabalho)** - Uma plataforma de hospedagem desktop.
 
-<img 
-    align="left" 
-    alt="git"
-    title="git" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>      
-          
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+### Curiosidades
 
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="javascript"
-    title="javascript" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorhtomaz&show_icons=true&theme=midnight-purple&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhtomaz&layout=compact&theme=midnight-purple&locale=pt-br" 
-  />
-</p>
+- Jogo atual favorito: Outer Wilds.
+- Hobbies: Jogos e Academia 
