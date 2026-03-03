@@ -7,11 +7,8 @@ Neste espaço, compartilho meus projetos pessoais e contribuições relacionadas
 ### Stack Tecnológica
 
 - **Back-end:** `C#`, `.NET`, `Java`, `C`
-
 - **Front-end:** `JavaScript`, `TypeScript`, `Tailwind CSS`
-
 - **Bancos de dados:** `MySQL`, `PostgreSQL`, `InfluxDB` 
-
 - **DevOps:** `Git`, `Docker`
 
 ### Alguns projetos
